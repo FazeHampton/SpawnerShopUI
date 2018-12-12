@@ -1,0 +1,9 @@
+name: SpawnerShopUI
+main: SpawnerShopUI\SpawnerShopUI
+author: FazeHampton
+api: [3.0.0]
+version: 1.0.0
+commands:
+  spawnershop:
+    usage: /spawnershopui
+    description: Opens The SpawnerShopUI
